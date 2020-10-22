@@ -21,7 +21,7 @@ Great attention to detail, well-organized, quick learner, eager to improve.
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   </p>
-<p align="center">Python, Git, Github, Bitbucket, HTML, CSS, React, Node, Java, JavaFX/Swing.</p>
+<p align="center"><samp>Python, Git, Github, Bitbucket, HTML, CSS, React, Node, Java, JavaFX/Swing</samp></p>
 
 <hr>
 <h2  align="center">📫 Reach me on</h2>
