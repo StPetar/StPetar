@@ -4,7 +4,7 @@
 <h2 align="center"> 👨‍💻 Who am I</h2>
 <p align="center">
   <samp>A highly motivated and hard-working Computer Science undergraduate student
-Chosen specializations: Machine Vision, Computer Graphics, Game Programming, Mobile and Web Development. <br> <br>Excellent computer, programming and communication skills with the ability to work well under pressure and to take the initiative in a fast-paced environment. 
+Chosen specializations: <br> Machine Vision, Computer Graphics, Game Programming, Mobile and Web Development. <br> <br>Excellent computer, programming and communication skills with the ability to work well under pressure and to take the initiative in a fast-paced environment. 
 Great attention to detail, well-organized, quick learner, eager to improve. 
   </samp>
 </p>
